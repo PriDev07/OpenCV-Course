@@ -67,7 +67,6 @@ Notes:
 
 ## License
 
-This repository does not currently include a license file. Add one if you plan to share or change the licensing.
+This repository does not currently include a license file.
 
 ---
-Generated README for local OpenCV learning exercises.
