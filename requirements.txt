@@ -1,0 +1,5 @@
+opencv-python>=4.5
+numpy>=1.19
+
+# Optional (use if you prefer matplotlib-based display or headless plotting)
+# matplotlib>=3.3
